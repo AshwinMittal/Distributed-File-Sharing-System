@@ -36,4 +36,4 @@ NOTE: The REGISTER command works only on the client and not on the server. Regis
 #This command will download a file from one host specified in the command. 
 
 9. PUT <connection id> <file name> 
-#For example, ‘PUT 3 /local/Fall_2015/qiao/a.txt’ will put the file a.txt which is located in /local/Fall_2015/qiao/, to the host on the connection that has connection id 3. 
+#For example, ‘PUT 3 /local/ashwin/a.txt’ will put the file a.txt which is located in /local/ashwin/, to the host on the connection that has connection id 3. 
